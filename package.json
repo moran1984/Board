@@ -1,0 +1,14 @@
+{
+  "name": "board",
+  "version": "1.0.0",
+  "description": "New Board For Test",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yun SJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
